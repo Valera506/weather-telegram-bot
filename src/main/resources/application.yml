@@ -1,0 +1,7 @@
+spring:
+  main:
+    web-application-type: none
+
+telegram:
+  bot:
+    token: ${TELEGRAM_BOT_TOKEN:}
